@@ -1,0 +1,4 @@
+*.ipynb_checkpoints
+notebooks/foo
+*__pycache__
+weights/*best*
